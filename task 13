@@ -1,0 +1,14 @@
+a = int(input("Enter number of ticket:"))
+b = int(input("Enter age:"))
+c = 990
+d = 1390
+e = 10
+if b == b < 18:
+    print("free ticket!")
+elif 18 < b < 25:
+ print(a * c)
+elif 26 < b < 99:
+ print(a * d)
+elif 26 < b < 99 and 3 < a:
+
+ print(((a * d) - (b / e) * 100))
